@@ -122,6 +122,9 @@ body {
 .day-name, .day-number, .year {
 	margin-left: 8px;
 }
+.month-name{
+	margin-left: 10px;
+}
 .dot-menu-btn{
 	position: absolute;
 	top: 0;
